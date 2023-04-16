@@ -18,20 +18,18 @@ Sugha Faiz Al Maula Analytics & Data Science batch 13
 1. Bila telah selesai langsung panggil fungsi check\_order dan akan ditampilkan harga total
 - Hasil test case :
 1. Input barang
+![image](https://user-images.githubusercontent.com/116618235/232291079-3ce6af02-18d0-40f2-a984-49b860415567.png)
 
-![](Aspose.Words.55ecb3a4-a870-47d9-bd6b-354f4d29fa2a.001.png)
 
 1. Coba mengganti nama jumlah dan harga per item
-
-![](Aspose.Words.55ecb3a4-a870-47d9-bd6b-354f4d29fa2a.002.png)
+![image](https://user-images.githubusercontent.com/116618235/232291088-a01f76f1-da2a-4adf-815e-86775f113473.png)
 
 1. Pengecekan kembali barang bila benar
+![image](https://user-images.githubusercontent.com/116618235/232291091-1322fe99-2ba8-4f9a-8cdc-b5ebb14e0576.png)
 
-![](Aspose.Words.55ecb3a4-a870-47d9-bd6b-354f4d29fa2a.003.png)
 
 1. Pengecekan kembali barang bila salah
-
-![](Aspose.Words.55ecb3a4-a870-47d9-bd6b-354f4d29fa2a.004.png)
+![image](https://user-images.githubusercontent.com/116618235/232291093-6fff7ffc-036e-4793-a0f1-21d9de85ae3f.png)
 
 - Saran :
 1. Belum dapat menampilkan beberapa barang sekaligus
