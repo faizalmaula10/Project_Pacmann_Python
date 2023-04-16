@@ -1,0 +1,14 @@
+Self Service Cashier
+
+Objektif : Memberi fitur kepada user untuk menginput sendiri jenis barangnya, jumlah, serta harga per item, memberi fitur edit serta menghitung total belanjanya.
+
+
+
+Diskon diberikan bila :
+
+>= 200_000 diskon 5%
+
+>=300_000 diskon 8%
+
+>=500_000 diskon 10%
+
